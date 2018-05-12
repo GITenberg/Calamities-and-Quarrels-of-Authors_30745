@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1292
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
 description: Calamities of authors -- Quarrels of authors.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30745#Calamities-and-Quarrels-of-Authors
 gutenberg_issued: '2009-12-23'
 gutenberg_type: Text
 identifiers:
